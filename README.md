@@ -17,3 +17,20 @@ To create a new project, run the following command:
 
 ```bash
 npx create-expo-app@latest
+
+### Step 2: Setting Up Your Development Environment
+
+Now that you have a project, it's time to set up your development environment.
+
+#### Install JDK
+
+**Prerequisites**
+
+Use a package manager such as Chocolatey to install the necessary dependencies.
+
+**Install Dependencies**
+
+Install the Java SE Development Kit (JDK):
+
+```bash
+choco install -y microsoft-openjdk17
