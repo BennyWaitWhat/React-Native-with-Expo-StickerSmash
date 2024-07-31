@@ -87,6 +87,7 @@ After running the command above, you will see a QR code in your terminal. Scan t
 
 - **Android Emulator:** Press `a` to open the app.
 - **iOS Simulator:** Press `i` to open the app.
+- **Your own device:** [Install Expo Go](https://expo.dev/go) on a physical device.
 
 ## Conclusion
 
