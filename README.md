@@ -2,6 +2,8 @@
 
 This repository will guide you through setting up a React Native app with Expo, a framework that simplifies the development of Android, iOS, and web applications.
 
+## [Final Result](https://snack.expo.dev/)
+
 ## System Requirements
 
 - **Node.js (LTS):** [Node.js](https://nodejs.org/en/)
