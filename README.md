@@ -1,8 +1,8 @@
 # Getting Started with React Native using Expo
 
-This repository will guide you through setting up a React Native app with Expo, a framework that simplifies the development of Android, iOS, and web applications.
+This repository will guide you through setting up a React Native app with Expo, a framework that simplifies the development of Android, iOS, and web applications for a simple image app.
 
-## ➡️[Final Result](https://snack.expo.dev/)⬅️
+## ➡️[Final Result](https://snack.expo.dev/@presidentkennedy/image-app)⬅️
 
 ## System Requirements
 
